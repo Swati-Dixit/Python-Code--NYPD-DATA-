@@ -1,0 +1,9 @@
+guptasw@hadoop-gate-0:~$ hadoop jar Task3.jar MapReduceTask3.Task3 ./ResultOut-Task2/part-r-00000 ./ResultOut-Task3
+1. Date on which maximum number of accidents took place:  Accident_Date-11/26/2013  394
+2. Borough with maximum count of accident fatality:  Borough-BROOKLYN 663
+3. Zip with maximum count of accident fatality:  ZipCode-11236 54
+4. Which vehicle type is involved in maximum accidents:  Vehicle-Type1-PASSENGER VEHICLE 253470
+5. Year in which maximum Number Of Persons and Pedestrians Injured:  Persons-Pedestrains-Injured-2013 52791
+6. Year in which maximum Number Of Persons and Pedestrians Killed:  Persons-Pedestrains-Killed-2013 345
+7. Year in which maximum Number Of Cyclist Injured and Killed:  Cyclist-Injured-Killed-2015 3876
+8. Year in which maximum Number Of Motorist Injured and Killed:  Motorists-Killed-Injured-2013 27622
